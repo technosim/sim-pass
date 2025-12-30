@@ -33,6 +33,7 @@ It is not intended for:
 
 **Note: If you want to also use this tool in ISE, you will need do these same steps from ISE, because there is a seperate profile for PowerShell and PowerShellISE. i.e:**
 >Microsoft.Powershell_profile.ps1
+
 >Microsoft.PowershellISE_profile.ps1
 
 ### 1. Open your PowerShell profile
